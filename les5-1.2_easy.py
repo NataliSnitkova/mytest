@@ -5,3 +5,4 @@ import os
 a = os.listdir(os.getcwd())
 print(a)
 print("3, 2, 1")
+print("Текст из удаленного репозитория")
